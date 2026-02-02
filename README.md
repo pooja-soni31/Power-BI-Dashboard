@@ -61,4 +61,6 @@ Dashboard screenshots
 
 📬 Author:-
 Pooja Soni
-Aspiring Data Analyst | Power BI | 
+Aspiring Data Analyst | Power BI Developer
+
+https://github.com/pooja-soni31/Power-BI-Dashboard/blob/main/Snapshot%20of%20Dashboard%20Page%201%20With%20tooltip.png
