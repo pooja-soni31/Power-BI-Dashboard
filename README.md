@@ -56,7 +56,7 @@ Enhance storytelling with insight annotations
 Optimize visuals for executive-level reporting
 
 📎 Repository Contents:-
-Power BI report file (.pbix)
+Power BI report file (.pbix),
 Dashboard screenshots
 
 📬 Author:-
