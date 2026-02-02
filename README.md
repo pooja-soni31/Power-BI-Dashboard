@@ -6,10 +6,10 @@ The final output is a 2-page interactive Power BI report that provides both high
 
 🎯 Business Objective:-
 The primary objectives of this project are to:
-.Convert raw sales data into clean, structured, and analysis-ready datasets
-.Provide clear visibility into sales, profit, quantity, and order performance
-.Enable analysis by category, subcategory, region, and time
-.Identify growth patterns, seasonality, and performance fluctuations
+1.Convert raw sales data into clean, structured, and analysis-ready datasets
+2.Provide clear visibility into sales, profit, quantity, and order performance
+3.Enable analysis by category, subcategory, region, and time
+4.Identify growth patterns, seasonality, and performance fluctuations
 
 🧩 Dashboard Structure:-
 Page 1: Sales Overview
@@ -25,35 +25,35 @@ Performance comparison across multiple time periods
 
 
 🛠️ Tools & Technologies:-
-Power BI Desktop
-Power Query – data cleaning and transformation
-DAX – calculated measures and KPIs
-Data Modeling – relationships and optimized schema
-Excel / CSV – data sources
+Power BI Desktop,
+Power Query – data cleaning and transformation,
+DAX – calculated measures and KPIs,
+Data Modeling – relationships and optimized schema,
+Excel / CSV – data sources,
 
 🔍 Key Analytics Techniques:-
-Data cleaning and standardization
-Handling missing and inconsistent values
-KPI creation using DAX
-Time-based analysis (YoY and monthly trends)
+Data cleaning and standardization,
+Handling missing and inconsistent values,
+KPI creation using DAX,
+Time-based analysis (YoY and monthly trends),
 Interactive filtering using slicers
 
 📈 Key Insights:-
-Identification of top-performing categories and regions
-Detection of seasonal sales patterns
-Comparison of sales growth vs profit stability
-Clear understanding of monthly and yearly performance trends
+Identification of top-performing categories and regions,
+Detection of seasonal sales patterns,
+Comparison of sales growth vs profit stability,
+Clear understanding of monthly and yearly performance trends.
 
 👩‍💻 What This Project Demonstrates:-
-End-to-end Power BI dashboard development
-Strong foundation in data analytics and business reporting
-Ability to translate business questions into visual insights
-Readiness to support real-world analytics and decision-making
+End-to-end Power BI dashboard development,
+Strong foundation in data analytics and business reporting,
+Ability to translate business questions into visual insights,
+Readiness to support real-world analytics and decision-making.
 
 🚀 Future Enhancements(Under Progress):-
-Add forecasting and trend projections
-Enhance storytelling with insight annotations
-Optimize visuals for executive-level reporting
+Add forecasting and trend projections,
+Enhance storytelling with insight annotations,
+Optimize visuals for executive-level reporting.
 
 📎 Repository Contents:-
 Power BI report file (.pbix),
